@@ -266,7 +266,7 @@ body{
         padding: 8px 14px;
     } 
 }
-@media only screen and (min-width:1366px){
+@media only screen and (min-width:1299px){
     #resume{
         position: relative;
         top: 30px;
